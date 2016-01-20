@@ -8,7 +8,7 @@
 int main(int argc, char * argv)
 {
 	int data1=3;
-	int data2=5;
+	int data2=50;
 
 	int valeur1;
 	int valeur2;
