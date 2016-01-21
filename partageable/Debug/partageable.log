@@ -1,3 +1,4 @@
 ﻿  main.cpp
-  LINK : C:\Users\timothee001\Source\Repos\partageable\Debug\partageable.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
-  partageable.vcxproj -> C:\Users\timothee001\Source\Repos\partageable\Debug\partageable.exe
+main.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) int __cdecl composant4(int,int)" (__imp_?composant4@@YAHHH@Z) référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu "__declspec(dllimport) char * __cdecl getComposant4Version(void)" (__imp_?getComposant4Version@@YAPADXZ) référencé dans la fonction _main
+C:\Users\timothee001\Source\Repos\partageable\Debug\partageable.exe : fatal error LNK1120: 2 externes non résolus

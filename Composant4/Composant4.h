@@ -13,6 +13,6 @@
 // interface du composant1
 COMPOSANT4_INTERFACE int composant4(int p1, int p2);
 
-COMPOSANT4_INTERFACE char * getComposant1Version(void);
+COMPOSANT4_INTERFACE char * getComposant4Version(void);
 #endif
 
