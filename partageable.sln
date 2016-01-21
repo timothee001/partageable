@@ -5,7 +5,9 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "partageable", "partageable\partageable.vcxproj", "{F6B61D36-AC7D-4BA3-B0E1-396B3EEBE9C7}"
 	ProjectSection(ProjectDependencies) = postProject
+		{CCF8D41B-3742-4952-B966-14C4633A6051} = {CCF8D41B-3742-4952-B966-14C4633A6051}
 		{38791A35-6BDD-42B2-873F-621244FB3426} = {38791A35-6BDD-42B2-873F-621244FB3426}
+		{3DFC4A46-520D-4298-81EC-A56B06F2DD14} = {3DFC4A46-520D-4298-81EC-A56B06F2DD14}
 		{5001BDBB-2E45-485A-AB91-0C9770A413BC} = {5001BDBB-2E45-485A-AB91-0C9770A413BC}
 	EndProjectSection
 EndProject
@@ -13,7 +15,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Composant1", "Composant1\Co
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Composant2", "Composant2\Composant2.vcxproj", "{38791A35-6BDD-42B2-873F-621244FB3426}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Component3", "Component3\Component3.vcxproj", "{3DFC4A46-520D-4298-81EC-A56B06F2DD14}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Composant3", "Component3\Component3.vcxproj", "{3DFC4A46-520D-4298-81EC-A56B06F2DD14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Composant4", "Composant4\Composant4.vcxproj", "{CCF8D41B-3742-4952-B966-14C4633A6051}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +53,14 @@ Global
 		{3DFC4A46-520D-4298-81EC-A56B06F2DD14}.Release|Win32.Build.0 = Release|Win32
 		{3DFC4A46-520D-4298-81EC-A56B06F2DD14}.Release|x64.ActiveCfg = Release|x64
 		{3DFC4A46-520D-4298-81EC-A56B06F2DD14}.Release|x64.Build.0 = Release|x64
+		{CCF8D41B-3742-4952-B966-14C4633A6051}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CCF8D41B-3742-4952-B966-14C4633A6051}.Debug|Win32.Build.0 = Debug|Win32
+		{CCF8D41B-3742-4952-B966-14C4633A6051}.Debug|x64.ActiveCfg = Debug|x64
+		{CCF8D41B-3742-4952-B966-14C4633A6051}.Debug|x64.Build.0 = Debug|x64
+		{CCF8D41B-3742-4952-B966-14C4633A6051}.Release|Win32.ActiveCfg = Release|Win32
+		{CCF8D41B-3742-4952-B966-14C4633A6051}.Release|Win32.Build.0 = Release|Win32
+		{CCF8D41B-3742-4952-B966-14C4633A6051}.Release|x64.ActiveCfg = Release|x64
+		{CCF8D41B-3742-4952-B966-14C4633A6051}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
