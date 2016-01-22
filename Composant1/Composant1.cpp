@@ -1,10 +1,11 @@
 
 #include "Composant1.h"
+#include "Composant3.h"
 #include "Composant1Version.h"
 
 int composant1(int p1, int p2)
 {
-	return 0;
+	return composant3(p1, p2);
 }
 
 

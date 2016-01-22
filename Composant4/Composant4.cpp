@@ -11,3 +11,8 @@ char * getComposant4Version()
 {
 	return "Composant 4 version " COMPOSANT_VERSION_STR;
 }
+
+int main() {
+
+	return 0;
+}

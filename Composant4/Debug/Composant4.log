@@ -4,4 +4,5 @@ c:\users\timothee001\source\repos\partageable\composant4\composant4.cpp(5): warn
 c:\users\timothee001\source\repos\partageable\composant4\composant4.cpp(11): warning C4273: 'getComposant4Version' : liaison DLL incohérente
   c:\users\timothee001\source\repos\partageable\composant4\composant4.h(16): note: voir la définition précédente de 'getComposant4Version'
      Création de la bibliothèque C:\Users\timothee001\Source\Repos\partageable\Debug\Composant4.lib et de l'objet C:\Users\timothee001\Source\Repos\partageable\Debug\Composant4.exp
-LINK : fatal error LNK1561: le point d'entrée doit être défini
+  Composant4.vcxproj -> C:\Users\timothee001\Source\Repos\partageable\Debug\Composant4.exe
+  Composant4.vcxproj -> C:\Users\timothee001\Source\Repos\partageable\Debug\Composant4.pdb (Partial PDB)
