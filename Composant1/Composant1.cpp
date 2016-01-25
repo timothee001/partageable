@@ -5,7 +5,7 @@
 
 int composant1(int p1, int p2)
 {
-	return composant3(p1, p2);
+	return composant3(p1,p2);
 }
 
 

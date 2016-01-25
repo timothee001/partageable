@@ -83,17 +83,17 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Component3\Component3.vcxproj">
-      <Project>{3dfc4a46-520d-4298-81ec-a56b06f2dd14}</Project>
-    </ProjectReference>
     <ProjectReference Include="..\Composant1\Composant1.vcxproj">
       <Project>{5001bdbb-2e45-485a-ab91-0c9770a413bc}</Project>
     </ProjectReference>
     <ProjectReference Include="..\Composant2\Composant2.vcxproj">
       <Project>{38791a35-6bdd-42b2-873f-621244fb3426}</Project>
     </ProjectReference>
+    <ProjectReference Include="..\Composant3\Composant3.vcxproj">
+      <Project>{beaccfc7-9655-4468-8aae-19d6ea05121c}</Project>
+    </ProjectReference>
     <ProjectReference Include="..\Composant4\Composant4.vcxproj">
-      <Project>{ccf8d41b-3742-4952-b966-14c4633a6051}</Project>
+      <Project>{9ef2af88-f1a4-4b27-b288-29de1bf3a9ce}</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
